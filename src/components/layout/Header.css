@@ -1,0 +1,35 @@
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    /* Ajustez la taille de votre logo */
+    width: 100px;
+    height: auto;
+}
+
+.menu {
+    background-color: #007BFF;
+    padding: 10px 0;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.menu ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.menu ul li a:hover {
+    text-decoration: underline;
+}
